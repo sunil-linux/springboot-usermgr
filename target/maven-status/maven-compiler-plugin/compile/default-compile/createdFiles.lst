@@ -1,0 +1,6 @@
+com\agilent\model\User.class
+com\agilent\controller\UserController.class
+com\agilent\dao\UserDao$1.class
+com\agilent\config\Application.class
+com\agilent\config\WebInitializer.class
+com\agilent\dao\UserDao.class
